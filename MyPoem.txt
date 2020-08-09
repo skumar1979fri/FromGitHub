@@ -3,6 +3,7 @@ Green
 Blue
 Red
 Yellow
+Gray
 Pink
 Brown
 Unocorn (Is added)
